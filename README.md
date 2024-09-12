@@ -10,9 +10,9 @@ Technologies Used
 Screenshots
 
 ## Features
-### Predict Tumor Type: Based on input features like radius, texture, perimeter, etc., the app predicts whether a tumor is cancerous or not.
-### Interactive UI: User-friendly interface created using Bootstrap 5, which includes cards, images, and responsive design.
-### Image Output: Displays a relevant image for both cancerous and non-cancerous predictions.
+ Predict Tumor Type: Based on input features like radius, texture, perimeter, etc., the app predicts whether a tumor is cancerous or not.
+ Interactive UI: User-friendly interface created using Bootstrap 5, which includes cards, images, and responsive design.
+ Image Output: Displays a relevant image for both cancerous and non-cancerous predictions.
 
 ## Installation
 To run this application locally, follow these steps:
@@ -46,3 +46,6 @@ Bootstrap 5: Frontend framework for responsive design and styling.
 Machine Learning: Trained model for breast cancer prediction.
 
 HTML5/CSS3: For creating the structure and style of the web pages.
+
+## Screenshots
+Input Page:
