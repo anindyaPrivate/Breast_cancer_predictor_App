@@ -48,4 +48,4 @@ Machine Learning: Trained model for breast cancer prediction.
 HTML5/CSS3: For creating the structure and style of the web pages.
 
 ## Screenshots
-Input Page:
+Input Page:![Input Page](static/input-page.png)
